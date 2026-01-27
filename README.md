@@ -6,8 +6,11 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 
 ## Core Technical Skills
 
-- Systems:
-* Networking: 
+- **Systems:** Windows 10/11, Windows Server, ACtive Directory, Group Policy
+- **Networking:** Subnetting, DHCP, DNS, VLANs, Routing Basics, VPN
+- **Cloud:** Microsoft Azure (Resource Groups, Virtual Machines, Networking, Identity)
+- **Tools:** PowerShell, Git, Wireshark, Remote Desktop, Ticketing Systems
+- **Security:** Security+ concepts, MFA, access control, least privilege, logging & monitoring fundamentals
 
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
