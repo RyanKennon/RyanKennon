@@ -55,7 +55,8 @@ Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Adminis
 
 ## Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" width="30"/>](https://www.linkedin.com/in/ryan-kennon)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" style="filter: invert(1);"/>](https://www.linkedin.com/in/ryan-kennon)
+
 
 
 
