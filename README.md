@@ -13,9 +13,10 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 - **Cloud:** Microsoft Azure (Resource Groups, Virtual Machines, Networking, Identity)
 - **Tools:** PowerShell, Git, Wireshark, Remote Desktop, Ticketing Systems
 - **Security:** Security+ concepts, MFA, access control, least privilege, logging & monitoring fundamentals
+
 ---
 
-## Labs
+## Information Technology Projects
 
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
