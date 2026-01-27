@@ -53,6 +53,9 @@ Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Adminis
 
 ---
 
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/ryan-kennon)
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
