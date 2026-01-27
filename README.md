@@ -3,6 +3,7 @@
 ## About Me
 
 I am an aspiring IT professional with hands-on experience in Windows administration, cloud infrastructure, networking fundamentals, and help desk operations. I build and document real-world lab environments using Microsoft Azure, Active Directory, and ticketing systems to develop practical troubleshooting and systems operations skills. My focus is on understanding how enterprise IT systems function end-to-end while applying security and operational best practices.
+---
 
 ## Core Technical Skills
 
@@ -11,6 +12,9 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 - **Cloud:** Microsoft Azure (Resource Groups, Virtual Machines, Networking, Identity)
 - **Tools:** PowerShell, Git, Wireshark, Remote Desktop, Ticketing Systems
 - **Security:** Security+ concepts, MFA, access control, least privilege, logging & monitoring fundamentals
+---
+
+## Labs
 
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
