@@ -18,6 +18,13 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 
 ## Information Technology Projects
 
+### osTicket (Help Desk Ticketing System)
+
+Practical implementation of a help desk platform simulating real-world IT support, incident management, and ticket lifecycle workflows, including role-based access and escalation.
+
+Key skills demonstrated:
+
+Help Desk Support, Ticketing Systems, User Support, Access Control, Documentation, Troubleshooting
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
