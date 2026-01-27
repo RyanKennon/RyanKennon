@@ -1,4 +1,4 @@
-# Hi, I'm Ryan -- an [IT Professional](https://www.linkedin.com/in/ryan-kennon)
+# Hi, I'm Ryan — an [IT Professional](https://www.linkedin.com/in/ryan-kennon)
 
 ## About Me
 
