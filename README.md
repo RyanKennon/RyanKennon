@@ -20,10 +20,31 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 
 ### osTicket (Help Desk Ticketing System)
 
-Practical implementation of a help desk platform simulating real-world **IT support**, **incident management**, and **ticket lifecycle workflows**, including role-based access and escalation.
+Practical implementation of a help desk platform simulating real-world **IT support,** **incident management,** and **ticket lifecycle workflows,** including role-based access and escalation.
 
 **Key skills demonstrated:**
 Help Desk Support, Ticketing Systems, User Support, Access Control, Documentation, Troubleshooting
+
+- osTicket: Prerequisits and Installation
+- osTicket: Post-Installation Configuration
+- osTicket: Ticket Lifecycle Examples
+
+---
+
+### Microsoft Azure & Configuring Active Directory
+
+Building and managing cloud-based Windows server environments inside Microsoft Azure. Demonstrating my ability to **deploy infrastructure,** **configure identity services,** **secure networks,** and **manage access controls** in a real cloud environment.
+
+**Key skills demonstrated:**
+Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration, Netowrk Firewalls, Troubleshooting
+
+- Configuring On-Premises Active Directory within Azure VMs
+- Active Directory Creating Users, Organizational Units, and Permissions
+- Configuring Network Firewalls
+
+---
+
+
 <!--
 **RyanKennon/RyanKennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
