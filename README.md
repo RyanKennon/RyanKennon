@@ -38,7 +38,7 @@ Building and managing cloud-based Windows server environments inside Microsoft A
 **Key skills demonstrated:**
 Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration, Netowrk Firewalls, Troubleshooting
 
-- Active Directory Domain Setup
+- [Active Directory Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
 - Active Directory Creating Users, Organizational Units, and Permissions
 - Configuring Network Firewalls
 
