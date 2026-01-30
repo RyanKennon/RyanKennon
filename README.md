@@ -15,8 +15,21 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 - **Security:** Security+ concepts, MFA, access control, least privilege, logging & monitoring fundamentals
 
 ---
-
 ## Information Technology Projects
+
+
+### Active Directory
+
+Building and managing cloud-based Windows server environments inside Microsoft Azure. Demonstrating my ability to **deploy infrastructure,** **configure identity services,** **secure networks,** and **manage access controls** in a real cloud environment.
+
+**Key skills demonstrated:**
+Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration, Netowrk Firewalls, Troubleshooting
+
+- [Active Directory Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
+- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
+- Configuring Network Firewalls
+
+---
 
 ### osTicket (Help Desk Ticketing System)
 
@@ -28,19 +41,6 @@ Help Desk Support, Ticketing Systems, User Support, Access Control, Documentatio
 - osTicket: Prerequisits and Installation
 - osTicket: Post-Installation Configuration
 - osTicket: Ticket Lifecycle Examples
-
----
-
-### Configuring Active Directory
-
-Building and managing cloud-based Windows server environments inside Microsoft Azure. Demonstrating my ability to **deploy infrastructure,** **configure identity services,** **secure networks,** and **manage access controls** in a real cloud environment.
-
-**Key skills demonstrated:**
-Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration, Netowrk Firewalls, Troubleshooting
-
-- [Active Directory Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
-- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
-- Configuring Network Firewalls
 
 ---
 
