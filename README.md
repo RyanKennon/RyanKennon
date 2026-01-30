@@ -31,7 +31,7 @@ Help Desk Support, Ticketing Systems, User Support, Access Control, Documentatio
 
 ---
 
-### Microsoft Azure & Configuring Active Directory
+### Configuring Active Directory
 
 Building and managing cloud-based Windows server environments inside Microsoft Azure. Demonstrating my ability to **deploy infrastructure,** **configure identity services,** **secure networks,** and **manage access controls** in a real cloud environment.
 
@@ -39,7 +39,7 @@ Building and managing cloud-based Windows server environments inside Microsoft A
 Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration, Netowrk Firewalls, Troubleshooting
 
 - [Active Directory Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
-- Active Directory Creating Users, Organizational Units, and Permissions
+- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
 - Configuring Network Firewalls
 
 ---
