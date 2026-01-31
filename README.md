@@ -28,6 +28,7 @@ Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Adminis
 - [Active Directory: Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
 - [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
 - [Active Directory: Account Lockout & Password Policy](https://github.com/RyanKennon/AD-Passwords/blob/main/README.md)
+- [Active Directory: User Lifecycle Management](https://github.com/RyanKennon/AD-User-Lifecycle-Management/blob/main/README.md)
 - Configuring Network Firewalls
 
 ---
