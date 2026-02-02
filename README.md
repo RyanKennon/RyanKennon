@@ -11,7 +11,7 @@ I am an aspiring IT professional with hands-on experience in Windows administrat
 - **Systems:** Windows 10/11, Windows Server, Active Directory, Group Policy
 - **Networking:** Subnetting, DHCP, DNS, VLANs, Routing Basics, VPN
 - **Cloud:** Microsoft Azure (Resource Groups, Virtual Machines, Networking, Identity)
-- **Tools:** PowerShell, Wireshark, Remote Desktop, Ticketing Systems
+- **Tools:** PowerShell, Wireshark, Remote Desktop, Ticketing Systems, Wireshark, HeidiSQL
 - **Security:** Security+ concepts, MFA, access control, least privilege, logging & monitoring fundamentals
 
 ---
@@ -39,7 +39,7 @@ Practical implementation of a help desk platform simulating real-world **IT supp
 **Key Skills Demonstrated:**
 Help Desk Support, Ticketing Systems, User Support, Documentation, Troubleshooting
 
-- osTicket: Prerequisits and Installation
+- [osTicket: Prerequisites & Installation](https://github.com/RyanKennon/osTicket-Prerequisites-Installation)
 - osTicket: Post-Installation Configuration
 - osTicket: Ticket Lifecycle Examples
 
