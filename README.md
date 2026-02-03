@@ -40,7 +40,7 @@ Practical implementation of a help desk platform simulating real-world **IT supp
 Help Desk Support, Ticketing Systems, User Support, Documentation, Troubleshooting
 
 - [osTicket: Prerequisites & Installation](https://github.com/RyanKennon/osTicket-Prerequisites-Installation)
-- osTicket: Post-Installation Configuration
+- [osTicket: Postinstallation Configuration](https://github.com/RyanKennon/osTicket-PostInstallation-Configuration/blob/main/README.md)
 - osTicket: Ticket Lifecycle Examples
 
 ---
