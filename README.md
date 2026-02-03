@@ -25,10 +25,10 @@ Building and managing cloud-based Windows server environments inside Microsoft A
 **Key Skills Demonstrated:**
 Azure Virtual Machines, Active Directory Domain Services (AD DS), Remote Administration
 
-- [Active Directory: Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup/blob/main/README.md)
-- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control/blob/main/README.md)
-- [Active Directory: Account Lockout & Password Policy](https://github.com/RyanKennon/AD-Passwords/blob/main/README.md)
-- [Active Directory: User Lifecycle Management](https://github.com/RyanKennon/AD-User-Lifecycle-Management/blob/main/README.md)
+- [Active Directory: Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup)
+- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control)
+- [Active Directory: Account Lockout & Password Policy](https://github.com/RyanKennon/AD-Account-Lockout-Password-Policy)
+- [Active Directory: User Lifecycle Management](https://github.com/RyanKennon/AD-User-Lifecycle-Management)
 
 ---
 
@@ -40,8 +40,8 @@ Practical implementation of a help desk platform simulating real-world **IT supp
 Help Desk Support, Ticketing Systems, User Support, Documentation, Troubleshooting
 
 - [osTicket: Prerequisites & Installation](https://github.com/RyanKennon/osTicket-Prerequisites-Installation)
-- [osTicket: Post-Installation Configuration](https://github.com/RyanKennon/osTicket-PostInstallation-Configuration/blob/main/README.md)
-- [osTicket: Ticket Lifecycle Management](https://github.com/RyanKennon/osTicket-Ticketing/blob/main/README.md)
+- [osTicket: Post-Installation Configuration](https://github.com/RyanKennon/osTicket-PostInstallation-Configuration)
+- [osTicket: Ticket Lifecycle Management](https://github.com/RyanKennon/osTicket-Ticketing)
 
 ---
 
@@ -52,7 +52,7 @@ Hands-on projects focused on network traffic analysis, firewall behavior, and co
 **Key Skills Demonstrated:**
 Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 
-- [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management/blob/main/README.md)
+- [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
 
 ---
 
