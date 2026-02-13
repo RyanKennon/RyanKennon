@@ -60,7 +60,8 @@ Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 
 **Key Skills Demonstrated:**
 
-- [Unauthorized vs Authorized Vulnerability Scanning in Windows](https://github.com/RyanKennon/Vulnerability-Scanning-Windows)
+- [Unauthorized vs Authorized Vulnerability Scanning of Windows](https://github.com/RyanKennon/Vulnerability-Scanning-Windows)
+- [Unauthorized vs Authorized Vulnerability Scanning of Linux](https://github.com/RyanKennon/Vulnerability-Scanning-Linux)
 
 ---
 
