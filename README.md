@@ -56,6 +56,14 @@ Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 
 ---
 
+### Vulnerability Management (Under Construction)
+
+**Key Skills Demonstrated:**
+
+- [Unauthorized vs Authorized Vulnerability Scanning in Windows](https://github.com/RyanKennon/Vulnerability-Scanning-Windows)
+
+---
+
 ## Certifications
 
 - **CompTIA A+**
