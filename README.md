@@ -63,6 +63,7 @@ Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 - [Unauthorized vs Authorized Vulnerability Scanning of Windows](https://github.com/RyanKennon/Vulnerability-Scanning-Windows)
 - [Unauthorized vs Authorized Vulnerability Scanning of Linux](https://github.com/RyanKennon/Vulnerability-Scanning-Linux)
 - [Vulnerability Management: Custom Scan Template Development & Execution](https://github.com/RyanKennon/Scanning-Using-Template)
+- [Windows Agent-Based Vulnerability Scanning Implementation](https://github.com/RyanKennon/Agent-Based-Monitoring-Windows)
 
 ---
 
