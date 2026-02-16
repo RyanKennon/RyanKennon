@@ -66,6 +66,7 @@ Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 - [Windows Agent-Based Vulnerability Scanning Implementation](https://github.com/RyanKennon/Agent-Based-Monitoring-Windows)
 - [Linux Agent-Based Vulnerability Scanning Implementation](https://github.com/RyanKennon/Vulnerability-Remediation-Linux)
 - [Windows Vulnerability Management: Detection, Exploitation, and Remediation](https://github.com/RyanKennon/Vulnerability-Remediation-Windows)
+- [Subnet Host Discovery Scan](https://github.com/RyanKennon/Discovery-Scan-Subnet)
 
 ---
 
