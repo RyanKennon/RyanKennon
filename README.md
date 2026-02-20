@@ -69,6 +69,7 @@ Network Traffic Analysis, Packet Inspection, Managing Network Firewalls
 - [Linux Vulnerability Management: Detection, Exploitation, and Remediation](https://github.com/RyanKennon/Vulnerability-Remediation-Linux)
 - [Subnet Host Discovery Scan](https://github.com/RyanKennon/Discovery-Scan-Subnet)
 - [Authenticated Vulnerability Assessment & Programmatic Remediation in Windows](https://github.com/RyanKennon/Programmatic-Remediation-Windows)
+- [Vulnerability Management Program Implementation](https://github.com/RyanKennon/Vulnerability-Management-Implementation)
 
 ---
 
