@@ -1,7 +1,5 @@
 # Hi, I'm Ryan, an [IT Professional](https://www.linkedin.com/in/ryan-kennon)
 
----
-
 ## Information Technology Projects
 
 
