@@ -41,6 +41,12 @@
 
 ---
 
+### Threat Hunting and Security Operations
+
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
+
+---
+
 ## Connect with Me
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" style="filter: invert(1);"/>](https://www.linkedin.com/in/ryan-kennon)
