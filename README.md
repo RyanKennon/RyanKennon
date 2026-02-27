@@ -15,13 +15,13 @@
 
 ---
 
-### Vulnerability Management Projects (Under Construction)
+## Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/RyanKennon/Vulnerability-Management-Implementation)
 
 ---
 
-### Threat Hunting and Security Operations Project
+## Threat Hunting and Security Operations Projects
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
 
