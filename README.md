@@ -1,14 +1,9 @@
-# Hi, I'm Ryan, an [IT Professional](https://www.linkedin.com/in/ryan-kennon)
+# [Ryan Kennon's](https://www.linkedin.com/in/ryan-kennon) IT and Cybersecurity Portfolio
 
 ## Information Technology Projects
 
-
-### Active Directory
-
-- [Active Directory: Domain Setup](https://github.com/RyanKennon/AD-Domain-Setup)
-- [Active Directory: User Creation & Access Control](https://github.com/RyanKennon/AD-User-Creation-Access-Control)
-- [Active Directory: Account Lockout & Password Policy](https://github.com/RyanKennon/AD-Account-Lockout-Password-Policy)
-- [Active Directory: User Lifecycle Management](https://github.com/RyanKennon/AD-User-Lifecycle-Management)
+- [Active Directory Enterprise Administration End-to-End Lab (Azure Virtual Environment)](https://github.com/RyanKennon/Active-Directory)
+- [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
 
 ---
 
@@ -20,28 +15,13 @@
 
 ---
 
-### Networking & Security
+### Vulnerability Management Projects (Under Construction)
 
-- [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
-
----
-
-### Vulnerability Management (Under Construction)
-
-- [Unauthorized vs Authorized Vulnerability Scanning of Windows](https://github.com/RyanKennon/Vulnerability-Scanning-Windows)
-- [Unauthorized vs Authorized Vulnerability Scanning of Linux](https://github.com/RyanKennon/Vulnerability-Scanning-Linux)
-- [Vulnerability Management: Custom Scan Template Development & Execution](https://github.com/RyanKennon/Scanning-Using-Template)
-- [Windows Agent-Based Vulnerability Scanning Implementation](https://github.com/RyanKennon/Agent-Based-Monitoring-Windows)
-- [Linux Agent-Based Vulnerability Scanning Implementation](https://github.com/RyanKennon/Agent-Based-Monitoring-Linux)
-- [Windows Vulnerability Management: Detection, Exploitation, and Remediation](https://github.com/RyanKennon/Vulnerability-Remediation-Windows)
-- [Linux Vulnerability Management: Detection, Exploitation, and Remediation](https://github.com/RyanKennon/Vulnerability-Remediation-Linux)
-- [Subnet Host Discovery Scan](https://github.com/RyanKennon/Discovery-Scan-Subnet)
-- [Authenticated Vulnerability Assessment & Programmatic Remediation in Windows](https://github.com/RyanKennon/Programmatic-Remediation-Windows)
 - [Vulnerability Management Program Implementation](https://github.com/RyanKennon/Vulnerability-Management-Implementation)
 
 ---
 
-### Threat Hunting and Security Operations
+### Threat Hunting and Security Operations Project
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
 
