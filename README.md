@@ -4,14 +4,7 @@
 
 - [Active Directory Enterprise Administration End-to-End Lab (Azure Virtual Environment)](https://github.com/RyanKennon/Active-Directory)
 - [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
-
----
-
-### osTicket (Help Desk Ticketing System)
-
-- [osTicket: Prerequisites & Installation](https://github.com/RyanKennon/osTicket-Prerequisites-Installation)
-- [osTicket: Post-Installation Configuration](https://github.com/RyanKennon/osTicket-PostInstallation-Configuration)
-- [osTicket: Ticket Lifecycle Management](https://github.com/RyanKennon/osTicket-Ticketing)
+- [osTicket: Deployment & Service Desk Workflow](https://github.com/RyanKennon/osTicket)
 
 ---
 
