@@ -1,6 +1,6 @@
 # [Ryan Kennon's](https://www.linkedin.com/in/ryan-kennon) IT and Cybersecurity Portfolio
 
-## Information Technology Projects
+## Information Technology
 
 - [Active Directory Enterprise Administration End-to-End Lab (Azure Virtual Environment)](https://github.com/RyanKennon/Active-Directory)
 - [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
@@ -8,16 +8,22 @@
 
 ---
 
-## Vulnerability Management Projects
+## Microsoft Entra ID
+
+- [Microsoft Entra ID: User & Identity Management Fundamentals](https://github.com/RyanKennon/Microsoft-Entra-ID/tree/main)
+
+---
+
+## Vulnerability Management
 
 - [Vulnerability Management Program Implementation](https://github.com/RyanKennon/Vulnerability-Management-Implementation)
 
 ---
 
-## Threat Hunting and Security Operations Projects
+## Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
-- [Threat Hunting Report: _Emberforge Source Leak_](https://github.com/RyanKennon/Threat-Hunt)
+- [Threat Hunting Report:_Emberforge Source Leak_](https://github.com/RyanKennon/Threat-Hunt)
 
 ---
 
