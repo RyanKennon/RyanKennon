@@ -23,7 +23,7 @@
 ## Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
-- [Threat Hunting Report:_Emberforge Source Leak_](https://github.com/RyanKennon/Threat-Hunt)
+- [Threat Hunting Report: _Emberforge Source Leak_](https://github.com/RyanKennon/Threat-Hunt)
 
 ---
 
