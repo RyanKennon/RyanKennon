@@ -8,7 +8,7 @@
 
 ---
 
-## Microsoft Entra ID
+## Identity and Access Management (IAM)
 
 - [Microsoft Entra ID: User & Identity Management Fundamentals](https://github.com/RyanKennon/Microsoft-Entra-ID/tree/main)
 
