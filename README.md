@@ -16,7 +16,7 @@
 
 ### Okta
 
-- [Okta Tenant Setup & Configuration — Identity Provider Foundations Lab](https://github.com/RyanKennon/Okta-Tenant-Setup)
+- [Okta Tenant Setup & Configuration](https://github.com/RyanKennon/Okta-Tenant-Setup)
 
 ---
 
