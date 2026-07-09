@@ -16,7 +16,7 @@
 
 ### Okta
 
-- [Okta Tenant Setup & Configuration](https://github.com/RyanKennon/Okta-Tenant-Setup)
+- [Okta IAM Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main)
 
 ---
 
