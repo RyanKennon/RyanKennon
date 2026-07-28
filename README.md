@@ -12,7 +12,7 @@
 
 ### Microsoft Entra ID
 
-- [Microsoft Entra ID: User & Identity Management Fundamentals](https://github.com/RyanKennon/Microsoft-Entra-ID/tree/main)
+- [Entra ID IAM Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main)
 
 ### Okta
 
