@@ -8,6 +8,12 @@
 
 ---
 
+## Data Analytics
+
+- [Northwind SQL Business Analysis](https://github.com/RyanKennon/sql-business-analysis-northwind)
+
+---
+
 ## Identity and Access Management (IAM)
 
 ### Microsoft Entra ID
