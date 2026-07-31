@@ -11,6 +11,7 @@
 ## Data Analytics
 
 - [Northwind SQL Business Analysis](https://github.com/RyanKennon/sql-business-analysis-northwind)
+- [Northwind Sales Performance Dashboard](https://github.com/RyanKennon/Northwind-Sales-Dashboard)
 
 ---
 
