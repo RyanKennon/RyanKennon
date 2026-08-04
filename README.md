@@ -12,6 +12,7 @@
 
 - [Northwind SQL Business Analysis](https://github.com/RyanKennon/sql-business-analysis-northwind)
 - [Northwind Sales Performance Dashboard](https://github.com/RyanKennon/Northwind-Sales-Dashboard)
+- [Tech Layoffs: End-to-End Analysis](https://github.com/RyanKennon/End-to-End-Analysis)
 
 ---
 
