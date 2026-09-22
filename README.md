@@ -2,7 +2,7 @@
 
 ## Information Technology
 
-- [Active Directory Enterprise Administration End-to-End Lab (Azure Virtual Environment)](https://github.com/RyanKennon/Active-Directory)
+- [Active Directory Enterprise Administration End-to-End Lab](https://github.com/RyanKennon/Active-Directory)
 - [Network Traffic Analysis & Firewall Management](https://github.com/RyanKennon/Network-Traffic-Analysis-Firewall-Management)
 - [osTicket: Deployment & Service Desk Workflow](https://github.com/RyanKennon/osTicket)
 - [Linux Server Setup & Administration](https://github.com/RyanKennon/Linux-Fundamentals)
