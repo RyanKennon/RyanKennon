@@ -9,24 +9,16 @@
 
 ---
 
-## Data Analytics
-
-- [Northwind SQL Business Analysis](https://github.com/RyanKennon/sql-business-analysis-northwind)
-- [Northwind Sales Performance Dashboard](https://github.com/RyanKennon/Northwind-Sales-Dashboard)
-- [Tech Layoffs: End-to-End Analysis](https://github.com/RyanKennon/End-to-End-Analysis)
-
----
-
 ## Identity and Access Management (IAM)
-
-### Microsoft Entra ID
-
-- [Entra ID Fundamentals Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main)
 
 ### Okta
 
 - [Okta Fundamentals Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main)
 - [Okta API Lifecycle Automation](https://github.com/RyanKennon/Okta-API-Lifecycle-Automation)
+
+### Microsoft Entra ID
+
+- [Entra ID Fundamentals Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main)
 
 ---
 
@@ -40,6 +32,14 @@
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/RyanKennon/threat-hunting-scenario-tor)
 - [Threat Hunting Report: _Emberforge Source Leak_](https://github.com/RyanKennon/Threat-Hunt)
+
+---
+
+## Data Analytics
+
+- [Northwind SQL Business Analysis](https://github.com/RyanKennon/sql-business-analysis-northwind)
+- [Northwind Sales Performance Dashboard](https://github.com/RyanKennon/Northwind-Sales-Dashboard)
+- [Tech Layoffs: End-to-End Analysis](https://github.com/RyanKennon/End-to-End-Analysis)
 
 ---
 
