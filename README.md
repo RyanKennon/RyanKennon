@@ -21,14 +21,12 @@
 
 ### Microsoft Entra ID
 
-- [Entra ID IAM Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main)
+- [Entra ID Fundamentals Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main)
 
 ### Okta
 
-- [Okta IAM Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main)
+- [Okta Fundamentals Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main)
 - [Okta API Lifecycle Automation](https://github.com/RyanKennon/Okta-API-Lifecycle-Automation)
-
-Automated the full Okta user lifecycle (joiner, mover, leaver) through the Okta REST API using Postman, and built a PowerShell script that audits MFA enrollment and flags users without a strong authenticator.
 
 ---
 
