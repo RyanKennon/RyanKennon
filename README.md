@@ -15,6 +15,7 @@
 
 - [Okta Fundamentals Lab Series](https://github.com/RyanKennon/Okta-Lab-Series/tree/main)
 - [Okta API Lifecycle Automation](https://github.com/RyanKennon/Okta-API-Lifecycle-Automation)
+- [Okta Group Rules & Attribute Based Access](https://github.com/RyanKennon/Okta-Group-Rules-and-Attribute-Based-Access)
 
 ### Microsoft Entra ID
 
