@@ -17,7 +17,7 @@
 - [Okta API Lifecycle Automation](https://github.com/RyanKennon/Okta-API-Lifecycle-Automation)
 - [Okta Group Rules & Attribute Based Access](https://github.com/RyanKennon/Okta-Group-Rules-and-Attribute-Based-Access)
 - [Okta Authentication Policies & Network Zones](https://github.com/RyanKennon/okta-authentication-policies-network-zones)
-- [Okta Admin Roles and Delegation](https://github.com/RyanKennon/Okta-Admin-Roles-Delegation)
+- [Okta Admin Roles & Delegation](https://github.com/RyanKennon/Okta-Admin-Roles-Delegation)
 
 ### Microsoft Entra ID
 
